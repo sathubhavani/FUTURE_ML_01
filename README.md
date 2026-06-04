@@ -17,8 +17,27 @@ Example findings:
 * Optimize warehouse stock levels.
 * Improve supply chain planning using forecasts.
 # Technologies Used:
-* 1.Python
-* 2.Pandas
-* 3.NumPy
-* 4.Scikit
-* 5.Matplotlib
+* Python
+* Pandas
+* NumPy
+* Scikit
+* Matplotlib
+
+## Machine Learning Algorithm
+* Random Forest Regressor
+
+## Features
+* Data Cleaning and Preprocessing
+* Time-Based Feature Engineering
+* Sales Forecasting using Random Forest Regressor
+* Model Performance Evaluation (MAE, RMSE, R² Score)
+* Sales Trend and Forecast Visualization
+* Future Demand Prediction
+* Business Decision Support
+* Inventory Planning Assistance
+* Seasonal Trend Analysis
+* User-Friendly Graphical Reports
+
+## Dataset 
+### Dataset Name: Sample Superstore Dataset
+#### Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset
