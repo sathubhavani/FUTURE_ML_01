@@ -16,3 +16,9 @@ Example findings:
 * Launch promotions during low-demand months.
 * Optimize warehouse stock levels.
 * Improve supply chain planning using forecasts.
+# Technologies Used:
+* 1.Python
+* 2.Pandas
+* 3.NumPy
+* 4.Scikit
+* 5.Matplotlib
