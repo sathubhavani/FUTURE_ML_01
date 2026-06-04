@@ -44,3 +44,24 @@ Example findings:
 
 ## Output: 
 * Successfully predicted future sales trends from historical sales data.
+
+## Tools & Libraries
+* Google Colab
+* Scikit-learn
+* Pandas
+* Matplotlib
+* Seaborn
+
+## Project Workflow
+* Load Dataset
+* Data Cleaning & Preprocessing
+* Feature Engineering (Date, Month, Year, Quarter)
+* Exploratory Data Analysis (EDA)
+* Train-Test Split
+* Build Random Forest Regression Model
+* Sales Forecasting & Prediction
+* Model Evaluation (MAE, RMSE, R²)
+* Data Visualization
+* Business Insights & Recommendations
+* Future Sales Forecast Generation
+* Final Report & Presentation Preparation
