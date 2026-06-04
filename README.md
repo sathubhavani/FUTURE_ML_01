@@ -65,3 +65,6 @@ Example findings:
 * Business Insights & Recommendations
 * Future Sales Forecast Generation
 * Final Report & Presentation Preparation
+
+## Conclusion:
+* Successfully forecasted future sales using machine learning to support better business planning and decision-making.
