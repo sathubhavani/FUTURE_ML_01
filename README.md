@@ -40,4 +40,7 @@ Example findings:
 
 ## Dataset 
 ### Dataset Name: Sample Superstore Dataset
-#### Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset
+#### Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+## Output: 
+* Successfully predicted future sales trends from historical sales data.
